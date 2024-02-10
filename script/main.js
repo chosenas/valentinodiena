@@ -230,7 +230,7 @@ const animationTimeline = () => {
     )
     .from(
       ".wish h5",
-      0.5,
+      2.5,
       {
         opacity: 0,
         y: 10,
